@@ -1,0 +1,6 @@
+.game {
+    display: flex;
+    flex-flow: row wrap;
+    width: 10rem;
+    height: 10rem;
+}

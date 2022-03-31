@@ -1,0 +1,19 @@
+.tile {
+    display: flex;
+    flex-basis: 33.3%;
+    cursor: pointer;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.tile:hover {
+    background-color: rgba(0,0,0,.13);
+}
+
+.tile__inner-wrapper {
+    flex: 1 1 auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    
+}
